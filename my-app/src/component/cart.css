@@ -1,0 +1,34 @@
+.cart-container{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    gap: 25px;
+}
+.cartname{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.num{
+    margin-top: 8px;
+    gap: 10px;
+}
+
+.button{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    background-color: gold;
+    border-radius: 0;
+    margin-top: 20px;
+    
+}
+.pay{
+    border: 2px solid black;
+    border-radius: 0;
+    width: 250px;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 250px;
+}
